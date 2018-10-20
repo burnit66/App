@@ -1,0 +1,21 @@
+{
+  "name": "Zomato-App",
+  "version": "1.0.0",
+  "description": "Quick, and easy way to find a place to eat.  FourZato uses two different endpoints to search for places to eat.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  }, 
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burnit66/Zomato-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/burnit66/Zomato-App/issues"
+  },
+  "homepage": "https://github.com/burnit66/Zomato-App#readme"
+}
